@@ -1,0 +1,9 @@
+table{
+    border-collapse: collapse;
+}
+td,th{
+    border: 1px dotted #ccc;
+    padding: 2px 5px;
+    font-family: Tahoma, sans-serif;
+
+}
